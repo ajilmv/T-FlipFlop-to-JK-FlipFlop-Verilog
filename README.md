@@ -1,6 +1,7 @@
 # T-FlipFlop-to-JK-FlipFlop-Verilog
 Conversion of T FlipFlop to JK FlipFlop in Verilog
 The code has been tested in Vivado Xilinx and works perfectly. Removing t from the input would improve the clarity and structure of the code.
+
 (optional)
 before:
 input t,clk,j,k;
